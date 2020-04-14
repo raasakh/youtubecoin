@@ -1,3 +1,6 @@
+
+Client for working with the YouTubeCoin ™ (YTB) on the CryptoNote network https://youtubecoin.blogspot.com/
+
 Building YouTubeCoin
 
 On *nix
